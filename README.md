@@ -1,12 +1,12 @@
 
 # Hi! I am SHOURYA CHOURASIA 👋
-### Analyst . Cloud . Code . Containers 🚀
+### Analyst 🚀. Cloud ☁️. Code 💻. Containers 🐳
 
 -🌱 Currently leveling up in **Kubernetes &  Terraform**
 
 -🛠️ I build with **python . Flask . Docker . AWS . Github Actions**  
 
--💬 Ask me about **DevOps, CI/CD Pipelines, Cloud Deployments**
+-💬 Ask me about **DevOps, CI/CD Pipelines, Cloud Deployments ☁️**
 
 -📫 Reach me at shourchourasia.912@gmail.com
 
