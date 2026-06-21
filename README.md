@@ -1,19 +1,22 @@
 
-## Hi! I am SHOURYA CHOURASIA
+# Hi! I am SHOURYA CHOURASIA 👋
+### Analyst . Cloud . Code . Containers 🚀
 
--🌱 I’m currently learning Spring Boot
+-🌱 Currently leveling up in **Kubernetes &  Terraform**
 
--💬 Ask me about Python, Django, MySQL
+-🛠️ I build with **python . Flask . Docker . AWS . Github Actions**  
 
--📫 How to reach me shourchourasia.912@gmail.com
+-💬 Ask me about **DevOps, CI/CD Pipelines, Cloud Deployments**
 
--👨‍💻 visit my portfolio at https://shourya-912.github.io/portfolio_website.github.io/
+-📫 Reach me at shourchourasia.912@gmail.com
 
--📄 Know about my experiences https://drive.google.com/file/d/1dXKGwcE1ExhUXb-MWbtYHCdOxYk6BKuG/view?usp=drive_link
+-🌐 Portfolio -> https://shourya-912.github.io/portfolio_website.github.io/
 
--⚡ Fun fact Find's Fun in every Fact.
+-🏆 Certified **AWS Cloud Practitioner**
 
-#CONNECT ME ON 
+-⚡ Fun fact: **My code works on the first try. Just kidding - that's what CI/CD is for.**
+
+### 🫱🏻‍🫲🏼 CONNECT ME ON 
 
 www.linkedin.com/in/shourya-chourasia-1b428622b
 
